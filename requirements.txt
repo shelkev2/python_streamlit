@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+streamlit
+requests
+pyyaml
+passlib[bcrypt]
+pyjwt
+python-multipart
+bcrypt==3.2.2
+passlib
